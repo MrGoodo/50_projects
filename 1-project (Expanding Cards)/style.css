@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Muli", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  display: flex; /* для того чтобы расположить картинки слова рядом друг с другом горизонтально, если мы хотим расположить вертикально, то нам понадобилось бы вместо display:flex написать flex-direction:column; и тогда они будут на верхушках друг друга */
+  width: 90vw;
+}
+
+.panel {
+  background-size: cover 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vw;
+  border-radius: 50px;
+  color: bisque;
+  cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+  position: relative;
+  transition: flex 0.7s ease-in;
+  width: 80vh;
+}
+.panel h3 {
+  font-size: 24px;
+  position: absolute;
+  bottom: 28px;
+  left: 28px;
+  margin: 0;
+  opacity: 0;
+}
+
+.panel.active {
+  flex: 5;
+}
+
+.panel.active h3 {
+  opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s; /*Для того чтобы переход был мягким и медленным при нажатии на картинки, чтобы одна переходила в другую медленно и красивенько */
+}
+
+@media (max-width: 400px) {
+  .container {
+    width: 100vw;
+  }
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
+    display: none;
+  }
+}
