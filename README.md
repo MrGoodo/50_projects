@@ -19,3 +19,11 @@
 ![image](https://github.com/MrGoodo/50_projects/assets/110602771/27fcde32-7194-4d1f-9084-a5cb8fd60090)
 
 ![image](https://github.com/MrGoodo/50_projects/assets/110602771/3a8bf559-5628-46b2-8666-627b6cb33dc0)
+
+5-project (Blurry Loading)
+
+![image](https://github.com/MrGoodo/50_projects/assets/110602771/66ea99d4-4d98-45f4-ba3f-b51a58f58c46)
+
+![image](https://github.com/MrGoodo/50_projects/assets/110602771/105e05a3-49bc-4012-9a8b-1d797869aa7e)
+
+![image](https://github.com/MrGoodo/50_projects/assets/110602771/99fe0200-64bd-46a7-b47e-5eb6b0f6f312)
