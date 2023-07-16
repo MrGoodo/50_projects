@@ -27,3 +27,9 @@
 ![image](https://github.com/MrGoodo/50_projects/assets/110602771/105e05a3-49bc-4012-9a8b-1d797869aa7e)
 
 ![image](https://github.com/MrGoodo/50_projects/assets/110602771/99fe0200-64bd-46a7-b47e-5eb6b0f6f312)
+
+6-project (Scroll Animation)
+
+![Recording 2023-07-16 101310](https://github.com/MrGoodo/50_projects/assets/110602771/7f0ec864-e1cf-4950-b89a-12e627f8e11a)
+
+
