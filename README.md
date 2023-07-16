@@ -5,7 +5,8 @@
 ![Recording 2023-07-16 102035](https://github.com/MrGoodo/50_projects/assets/110602771/13be6a4d-7030-4fed-8e29-6a5e2da16c3a)
 
 2-project (Progress Steps)
-![Recording 2023-07-16 102325](https://github.com/MrGoodo/50_projects/assets/110602771/f1425e86-cb1e-4dda-b156-669f0497c870)
+
+![Recording_2023-07-16_102325](https://github.com/MrGoodo/50_projects/assets/110602771/c89b3e77-c8c8-4941-ae42-61bdb42136f6)
 
 3-project (Rotating Navigation Animation) 
 
