@@ -25,4 +25,7 @@
 
 ![Recording 2023-07-16 101310](https://github.com/MrGoodo/50_projects/assets/110602771/7f0ec864-e1cf-4950-b89a-12e627f8e11a)
 
+7-project (Split Landing Page)
+
+![Recording_2023-07-16_130327](https://github.com/MrGoodo/50_projects/assets/110602771/efd47591-9b4e-454d-9d2c-c94fcd7ec2f4)
 
