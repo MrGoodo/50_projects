@@ -20,6 +20,10 @@ body {
   min-height: 100vh;
   padding: 50px;
 }
+.header {
+  margin-left: 500px;
+  color: white;
+}
 
 .container.show-nav {
   transform: rotate(-20deg);
