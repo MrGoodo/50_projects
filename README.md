@@ -10,9 +10,8 @@
 
 3-project (Rotating Navigation Animation) 
 
-![image](https://github.com/MrGoodo/50_projects/assets/110602771/e98bbbb4-c957-4907-8814-09f2bdef83ec)
+![Recording_2023-07-16_103923](https://github.com/MrGoodo/50_projects/assets/110602771/3d735aaf-e920-49e8-9758-55e3ef6a55f2)
 
-![image](https://github.com/MrGoodo/50_projects/assets/110602771/cf5befd8-d888-443f-9cef-15a98f3ab5ab)
 
 4-project (Hidden Search Widget)
 
