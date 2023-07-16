@@ -2,11 +2,11 @@
 
 1-project (Expanding Cards)
 
-![screenshot](https://github.com/MrGoodo/50_projects/assets/110602771/c4cce872-aef0-45b6-b4c0-48d7b5ac482b)
+![Recording 2023-07-16 102035](https://github.com/MrGoodo/50_projects/assets/110602771/13be6a4d-7030-4fed-8e29-6a5e2da16c3a)
 
 2-project (Progress Steps)
 
-![image](https://github.com/MrGoodo/50_projects/assets/110602771/bb816f3c-a5be-41db-ab80-21270f9b0b70)
+![Recording_2023-07-16_102325](https://github.com/MrGoodo/50_projects/assets/110602771/c89b3e77-c8c8-4941-ae42-61bdb42136f6)
 
 3-project (Rotating Navigation Animation) 
 
@@ -27,3 +27,9 @@
 ![image](https://github.com/MrGoodo/50_projects/assets/110602771/105e05a3-49bc-4012-9a8b-1d797869aa7e)
 
 ![image](https://github.com/MrGoodo/50_projects/assets/110602771/99fe0200-64bd-46a7-b47e-5eb6b0f6f312)
+
+6-project (Scroll Animation)
+
+![Recording 2023-07-16 101310](https://github.com/MrGoodo/50_projects/assets/110602771/7f0ec864-e1cf-4950-b89a-12e627f8e11a)
+
+
