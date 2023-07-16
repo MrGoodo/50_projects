@@ -15,9 +15,7 @@
 
 4-project (Hidden Search Widget)
 
-![image](https://github.com/MrGoodo/50_projects/assets/110602771/27fcde32-7194-4d1f-9084-a5cb8fd60090)
-
-![image](https://github.com/MrGoodo/50_projects/assets/110602771/3a8bf559-5628-46b2-8666-627b6cb33dc0)
+![Recording_2023-07-16_104107](https://github.com/MrGoodo/50_projects/assets/110602771/5303d15b-417f-4cfb-b37a-e507cd391a81)
 
 5-project (Blurry Loading)
 
