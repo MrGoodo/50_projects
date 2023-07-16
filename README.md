@@ -2,7 +2,7 @@
 
 1-project (Expanding Cards)
 
-![screenshot](https://github.com/MrGoodo/50_projects/assets/110602771/c4cce872-aef0-45b6-b4c0-48d7b5ac482b)
+![Recording 2023-07-16 102035](https://github.com/MrGoodo/50_projects/assets/110602771/13be6a4d-7030-4fed-8e29-6a5e2da16c3a)
 
 2-project (Progress Steps)
 
