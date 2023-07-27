@@ -32,3 +32,8 @@
 8-project (Form Wave)
 
 ![Recording_2023-07-16_220907](https://github.com/MrGoodo/50_projects/assets/110602771/c7e321e3-8feb-47a8-b35a-42f202a16067)
+
+9-project (Sound Board) (you need click on btns)
+
+![image](https://github.com/MrGoodo/50_projects/assets/110602771/a4397e27-21d3-4dff-8161-adbf7209dc39)
+
