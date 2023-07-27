@@ -29,3 +29,6 @@
 
 ![Recording_2023-07-16_130327](https://github.com/MrGoodo/50_projects/assets/110602771/efd47591-9b4e-454d-9d2c-c94fcd7ec2f4)
 
+8-project (Form Wave)
+
+![Recording_2023-07-16_220907](https://github.com/MrGoodo/50_projects/assets/110602771/c7e321e3-8feb-47a8-b35a-42f202a16067)
