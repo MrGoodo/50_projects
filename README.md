@@ -45,3 +45,7 @@
 
 ![Recording_2023-07-29_115753](https://github.com/MrGoodo/50_projects/assets/110602771/7fc7046e-a605-4527-8428-b774c9d9a33f)
 
+12-project (Faq Collapse)
+
+![Recording_2023-07-30_114054](https://github.com/MrGoodo/50_projects/assets/110602771/cb5ad9e7-934f-4ed4-8e47-6d46c931ee44)
+
