@@ -49,3 +49,12 @@
 
 ![Recording_2023-07-30_114054](https://github.com/MrGoodo/50_projects/assets/110602771/cb5ad9e7-934f-4ed4-8e47-6d46c931ee44)
 
+13-project (Random Choice Picker)
+
+![Recording_2023-09-02_220113](https://github.com/MrGoodo/50_projects/assets/110602771/a6428aa1-2d1f-46d5-85c2-59a1dea17fd6)
+
+
+
+
+
+
