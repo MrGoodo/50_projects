@@ -53,6 +53,11 @@
 
 ![Recording_2023-09-02_220113](https://github.com/MrGoodo/50_projects/assets/110602771/a6428aa1-2d1f-46d5-85c2-59a1dea17fd6)
 
+14-project (Animated Navigation)
+
+![Recording_2023-09-04_194957](https://github.com/MrGoodo/50_projects/assets/110602771/3ac763d3-9032-4948-975c-904960c3537e)
+
+
 
 
 
