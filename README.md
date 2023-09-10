@@ -57,9 +57,13 @@
 
 ![Recording_2023-09-04_194957](https://github.com/MrGoodo/50_projects/assets/110602771/3ac763d3-9032-4948-975c-904960c3537e)
 
+15-project (Incrementing Counter)
 
+![Recording_2023-09-10_202525](https://github.com/MrGoodo/50_projects/assets/110602771/0f5118c2-9ffd-4122-a4ab-cb51ad3e6a0d)
 
+16-project (Drink Water)
 
+![Recording_2023-09-10_202322](https://github.com/MrGoodo/50_projects/assets/110602771/84f6287f-1f84-495b-b0ed-97187d276692)
 
 
 
